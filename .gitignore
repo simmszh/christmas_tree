@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Development artifacts
+.npm-cache/
+node_modules/
+tools/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
